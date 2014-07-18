@@ -1,0 +1,37 @@
+{
+  "name": "gulp-join",
+  "version": "0.0.1",
+  "description": "A Gulp plugin that concatenates multiple files in the stream that have the same path",
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "sprites",
+    "images",
+    "css",
+    "retina"
+  ],
+  "homepage": "https://github.com/steadicat/gulp-join",
+  "bugs": "https://github.com/steadicat/gulp-join/issues",
+  "author": {
+    "name": "Stefano J. Attardi",
+    "email": "",
+    "url": "https://github.com/steadicat"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/steadicat/gulp-join.git"
+  },
+  "dependencies": {
+    "through2": "^0.5.1"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
