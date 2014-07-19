@@ -5,10 +5,7 @@
   "keywords": [
     "gulpplugin",
     "gulp",
-    "sprites",
-    "images",
-    "css",
-    "retina"
+    "concat"
   ],
   "homepage": "https://github.com/steadicat/gulp-join",
   "bugs": "https://github.com/steadicat/gulp-join/issues",
